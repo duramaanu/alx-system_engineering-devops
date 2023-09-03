@@ -10,3 +10,4 @@ Del file betty in dir
 Del the dir in the tmp dir
 Script that changes working dir to previous one
 Script that all files current dir & pwd in long fmt
+Script that prints the type of the file named iamafile in tmp dir
