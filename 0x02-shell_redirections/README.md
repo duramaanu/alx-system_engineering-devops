@@ -9,3 +9,4 @@ Script that creates a file named Best School
 Script that writes into file ls_cwd_content
 Script that duplicates the last line of the file iacta
 Script that deletes all the regular files with .js extension
+Script that counts the number of dir & sub-dir in current dir
