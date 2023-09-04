@@ -15,3 +15,4 @@ Script that takes a list of words as input and prints only words that appear onc
 Script that display lines contyaining the pattern "root" from the file /etc/passwd
 Script that display the number of lines that contain the pattern "bin" in file /etc/passwd
 Script that display lines containing the pattern "root" & 3 lines after them in /etc/passwd
+Script that display all the lines in /etc/passwd thjat do not contain the pattern "bin"
