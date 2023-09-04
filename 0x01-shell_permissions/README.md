@@ -15,3 +15,4 @@ Script that changes the group owner to school for the file hello
 Script that changes owner to vincent & group owner to staff
 Script that changes owner and grp owner of _hello to vincent & staff
 Script that changes the owner of file hello to betty
+Script that will play the StarWars IV episode in the terminal
