@@ -8,3 +8,4 @@ Script that display the third line of the file iacta
 Script that creates a file named Best School
 Script that writes into file ls_cwd_content
 Script that duplicates the last line of the file iacta
+Script that deletes all the regular files with .js extension
