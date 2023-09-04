@@ -17,3 +17,4 @@ Script that mv all files staring with UPPERCASE
 Script that del all files in current wd that end with ~
 Script that creates dir welcome
 Cmd that list all files & dir of current dir seperated by commas
+Magic file
