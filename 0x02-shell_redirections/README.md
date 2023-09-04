@@ -13,3 +13,4 @@ Script that counts the number of dir & sub-dir in current dir
 Script that display the 10 newest files in the current dir
 Script that takes a list of words as input and prints only words that appear once
 Script that display lines contyaining the pattern "root" from the file /etc/passwd
+Script that display the number of lines that contain the pattern "bin" in file /etc/passwd
