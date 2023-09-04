@@ -8,7 +8,8 @@ Script that adds execute permission
 Script that adds execution permission to owner
 Script that sets the permission to the file hello
 Script that sets the mode of the file hello
- Script that sets the mode of the file hello the same as ollehs mode
+Script that sets the mode of the file hello the same as ollehs mode
 Script that adds execute permission to all subdirectories of current dir
 Script that creates a directory called my_dir with perm 751
 Script that changes the group owner to school for the file hello
+Script that changes owner to vincent & group owner to staff
