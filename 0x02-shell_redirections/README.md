@@ -19,3 +19,4 @@ Script that display all the lines in /etc/passwd thjat do not contain the patter
 Script that display all lines of /etc/ssh/sshd_config starting with a letter
 Script that replace all characters A & c from input to Z & e respectively
 Script that removes all letters c & C from input
+Script that reverse its input
