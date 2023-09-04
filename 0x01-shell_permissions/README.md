@@ -8,3 +8,4 @@ Script that adds execute permission
 Script that adds execution permission to owner
 Script that sets the permission to the file hello
 Script that sets the mode of the file hello
+ Script that sets the mode of the file hello the same as ollehs mode
