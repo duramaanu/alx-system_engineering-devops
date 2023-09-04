@@ -14,3 +14,4 @@ Script that prints the type of the file named iamafile in tmp dir
 Create a symbolic link
 Script that copies all the HTML files
 Script that mv all files staring with UPPERCASE
+Script that del all files in current wd that end with ~
