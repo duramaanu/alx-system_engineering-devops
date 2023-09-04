@@ -20,3 +20,4 @@ Script that display all lines of /etc/ssh/sshd_config starting with a letter
 Script that replace all characters A & c from input to Z & e respectively
 Script that removes all letters c & C from input
 Script that reverse its input
+Script that display all users & their home directories, sorted by users
