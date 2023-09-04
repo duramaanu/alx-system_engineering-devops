@@ -13,8 +13,9 @@ Script that counts the number of dir & sub-dir in current dir
 Script that display the 10 newest files in the current dir
 Script that takes a list of words as input and prints only words that appear once
 Script that display lines contyaining the pattern "root" from the file /etc/passwd
-Script that display the number of lines that contain the pattern "bin" in file /etc/passwd
-Script that display lines containing the pattern "root" & 3 lines after them in /etc/passwd
+Script that display the number of lines that contain the pattern "bin" in /etc/passwd
+Script that display lines containing pattern "root" & 3 lines after them in /etc/passwd
 Script that display all the lines in /etc/passwd thjat do not contain the pattern "bin"
 Script that display all lines of /etc/ssh/sshd_config starting with a letter
 Script that replace all characters A & c from input to Z & e respectively
+Script that removes all letters c & C from input
