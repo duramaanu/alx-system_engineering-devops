@@ -5,3 +5,4 @@ Script that changes the owner of the file hello to user betty
 Script that creates empty file hello
 Script that adds execute permission to the owner of the file hello
 Script that adds execute permission
+Script that adds execution permission to owner
