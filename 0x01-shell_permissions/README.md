@@ -13,3 +13,4 @@ Script that adds execute permission to all subdirectories of current dir
 Script that creates a directory called my_dir with perm 751
 Script that changes the group owner to school for the file hello
 Script that changes owner to vincent & group owner to staff
+Script that changes owner and grp owner of _hello to vincent & staff
