@@ -23,3 +23,5 @@ Script that reverse its input
 Script that display all users & their home directories, sorted by users
 Script that finds all empty files & dir in the current dir & subdir
 Script that list all files with .gif ext in current dir & subdir
+Script that decodes acrostics that use the 1st letter of each line
+Script that decodes acrostics that use the 1st letter of each line
